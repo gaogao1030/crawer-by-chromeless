@@ -1,10 +1,10 @@
-### requirement
+### Requirement
 * chromeless 1.0.1
 * node >= 8.2.1
 * [chrome-canary](https://www.google.com/chrome/browser/canary.html)
 * Mac OS Sierra(10.12.6)
 
-### usage
+### Usage
 ```shell
 yarn install
 
