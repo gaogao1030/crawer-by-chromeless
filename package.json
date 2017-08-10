@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "chromeless": "1.0.1",
+    "jsonfile": "^3.0.1"
+  }
+}
